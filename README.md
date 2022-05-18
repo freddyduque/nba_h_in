@@ -1,11 +1,3 @@
-### Mach Eight Sample Project
-
-Thank you for taking the time to complete this sample project. We're a tech
-first company and we value our engineers tremendously. We're are looking for
-hard working, smart engineers with either excellent experience or lots of
-potential.
-
-
 ## Project
 
 The project is to write a function that searches through NBA player heights
